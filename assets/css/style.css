@@ -13,6 +13,10 @@ header {
     bottom: 0;
 }
 
+h1 {
+    margin-left: 35px;
+}
+
 a {
     border: 2px solid white;
     border-radius: 50%;
