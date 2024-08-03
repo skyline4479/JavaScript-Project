@@ -1,5 +1,9 @@
-
-  header {
+/* #bg {
+    
+} */
+ 
+ 
+ header {
     text-align: center;
     border-bottom: 2px solid black;
     padding-bottom: 20px;
@@ -40,7 +44,7 @@ li {
     margin-top: 175px;
 }
 
-#center {
+.center {
     text-align: center;
     justify-content: center;
     margin-top: 90px;
