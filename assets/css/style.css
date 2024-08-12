@@ -1,7 +1,9 @@
-/* #bg {
-    
-} */
- 
+#bg {
+    background-image: url('https://images.pexels.com/photos/772803/pexels-photo-772803.jpeg');
+          background-repeat: no-repeat;
+          background-attachment: fixed;
+          background-size: 100% 100%;
+}
  
  header {
     text-align: center;
@@ -16,6 +18,10 @@
     left: 0;
     top: 0;
     bottom: 0;
+}
+
+#welcome {
+    margin-top: 180px;
 }
 
 h1 {
@@ -40,19 +46,18 @@ li {
     display: inline;
 }
 
-#welcome {
-    margin-top: 175px;
+#margin {
+    margin-top: 100px;
 }
 
 .center {
-    text-align: center;
-    justify-content: center;
-    margin-top: 90px;
-    margin-bottom: 400px;
+    text-align: center;y
 }
 
 .fixed-bottom {
+    font-size: larger;
     background: rgb(14, 62, 110);
+    color:white;
     opacity: 0.9;
     height: 150px;
     width: 100%;
