@@ -1,6 +1,6 @@
 Resources:
 
-Background images: www.pexels.com
+Background images: www.pexels.com & www.freepik.com
 Quotes:
 Positive quotes - https://www.adobe.com/express/discover/quotes/positivity
 Inspirational and motivational quotes - https://eu.usatoday.com/story/life/2023/11/30/positive-quotes-to-inspire/11359498002/
